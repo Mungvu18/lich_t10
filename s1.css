@@ -1,0 +1,11 @@
+table {
+    border: 1px;
+    text-align: center;
+    width: 100%;
+}
+table tr td.kb {
+    border: none;
+}
+table{
+    font-weight: bold;
+}
